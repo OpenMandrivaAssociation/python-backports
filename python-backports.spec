@@ -1,7 +1,7 @@
 %global srcname backports
 %global srcversion 1.0
 
-Name:           python-%srcname
+Name:           python2-%srcname
 Version:        1.0
 Release:        1
 Summary:        A lightweight derivative of Enthought Traits for configuring Python objects
@@ -9,9 +9,6 @@ Group:          Development/Python
 License:        BSD
 URL:            https://pypi.python.org/pypi/backports
 Source0:	backports.py
-
-BuildRequires:	python-setuptools
-BuildRequires:	python-devel
 
 BuildRequires:	python2-setuptools
 BuildRequires:	python2-devel
