@@ -19,8 +19,6 @@ configuring Python objects.
 
 This package powers the config system of IPython and Jupyter.
 
-%package -n python2-%srcname
-
 %prep
 
 %build
