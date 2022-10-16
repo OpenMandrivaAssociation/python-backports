@@ -2,7 +2,7 @@
 %global srcversion 1.0
 
 Name:           python2-%srcname
-Version:        1.0
+Version:        1.1
 Release:        1
 Summary:        A lightweight derivative of Enthought Traits for configuring Python objects
 Group:          Development/Python
